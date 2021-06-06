@@ -1,0 +1,106 @@
+h2{
+    font-size: 150%;
+    color:rgb( 14, 102, 94);
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+}
+h4{
+    margin-top: 30px;
+    color: #666;
+    text-align: center;
+}
+.img-cont{
+   
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 50px;
+    width: 400px;
+}
+.forms-busca{
+    
+    align-items: center;
+    width: 500px;
+    margin-top: 15px;
+    margin-right: auto;
+    padding: 15px;
+    margin-left: auto;
+    border: cadetblue solid 0.5px;
+    background-color: #fff;
+    border-radius:2%;
+    box-shadow: 3px 3px 5px rgba(8, 172, 163, 0.424);
+}
+.text-label{
+    font-size: 90%;
+    margin-top: 50px;
+    font-family: 'Nunito';
+    color: #666;
+     border-radius: 30px;
+}
+.forms{
+    margin-top: 30px;
+   
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.bt-proximo{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    width: 110px;
+    height: 40px;
+    margin-left: 66%;
+    margin-right: auto;
+    color: #fff;
+    background-color:cadetblue;
+    border: solid rgb(245, 245, 245) 1px;
+    border-radius: 30px;
+    font-size: 105%;
+    box-shadow: 1px 1px 2px rgba(95, 158, 160, 0.89);
+    
+}
+.bt-proximo:hover {
+    background: rgba(95, 158, 160, 0.719);
+    border: 1px solid rgba(#000, .05);
+    color: lighten(cadetblue, 18%); 
+    text-decoration: none;
+    cursor:pointer;
+    transition: all 250ms linear;
+  }
+
+.bt-PosCadastrar{
+    align-items: center;
+    margin-right: auto;
+    margin-left: auto;
+    width: 110px;
+    align-items: center;
+}
+  .bt-cadastrar{
+      
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 110px;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #fff;
+    background-color:rgb(32, 88, 179);
+    border: solid rgb(245, 245, 245) 1px;
+    border-radius: 30px;
+    font-size: 105%;
+    box-shadow: 1px 1px 2px rgba(32, 88, 179, 0.89);
+}
+
+.bt-cadastrar:hover {
+    background: rgba(32, 88, 179, 0.719);
+    border: 1px solid rgba(#000, .05);
+    
+    color: lighten(rgb(32, 88, 179), 18%); 
+    text-decoration: none;
+    cursor:pointer;
+    transition: all 250ms linear;
+  }
+
+ 
+
