@@ -1,9 +1,9 @@
 # Cadastro de Vacinacão
 
-###Tecnologias utilizadas
-👉 Node.js
-👉 React
-👉 MongoDB
+### Tecnologias utilizadas
+👉 Node.js <br />
+👉 React <br />
+👉 MongoDB <br />
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Interface da tela home:
@@ -19,8 +19,8 @@ Interface da tela da posição:
 ![alt text](https://github.com/ruanderlan74/Cadastro_Vacinacao/blob/main/pag_pos.PNG)
 
 
-###Imagens utilizadas
-- logo da Secretaria de saúde do governo do Ceará Secretaria de saúde:
+### Imagens utilizadas
+- logo da Secretaria de saúde do governo do Ceará Secretaria de saúde: <br />
 https://www.saude.ce.gov.br/wp-content/uploads/sites/9/2018/06/bolsas_extensao_tecnologica_edital_13_2018.pdf
-- logo cadastro estadual de vacinação: 
+- logo cadastro estadual de vacinação: <br />
 https://vacinacaocovid.saude.ce.gov.br/#/boas-vindas
