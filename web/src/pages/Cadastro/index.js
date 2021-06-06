@@ -145,7 +145,7 @@ const Cadastro = () =>{
                         />
                         
 
-                        <label class="text-label" htmlFor="">Data de nascmento:</label>
+                        <label class="text-label" htmlFor="">Data de nascimento:</label>
                         <br/>
                         
                         <InputMask 
